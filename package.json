@@ -1,0 +1,19 @@
+{
+  "name": "api-backend-wompi",
+  "version": "1.0.0",
+  "description": "wompi api ",
+  "main": "src/app/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosdiaztl/api-wompi.git"
+  },
+  "author": "carlos diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosdiaztl/api-wompi/issues"
+  },
+  "homepage": "https://github.com/carlosdiaztl/api-wompi#readme"
+}
